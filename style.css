@@ -118,3 +118,8 @@ footer {
   color: #1b4128;
   box-shadow: 0 1px 0 rgba(27, 31, 36, 0.1);
 }
+
+
+.aligncenter {
+    text-align: center;
+}
